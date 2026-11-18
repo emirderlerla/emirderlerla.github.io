@@ -1,0 +1,8 @@
+{
+  "name": "Kuzey Stüdyo",
+  "description": "İstanbul merkezli dijital ürün tasarımı ve web mühendisliği stüdyosu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
